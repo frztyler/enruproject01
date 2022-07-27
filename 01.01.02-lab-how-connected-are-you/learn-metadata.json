@@ -1,0 +1,31 @@
+{
+    "title": "Сколько времени мы "остаемся на связи"?",
+	"shortName": "lab-1.1.2",
+    "materialType": "lab",
+    "description": "Важно понимать, что большинство людей, родившихся после 1990-х годов, выросли преимущественно в цифровом мире. Этот опрос поможет вам узнать, сколько времени в действительности вы проводите «на связи». Это поможет нам увидеть влияние этого поколения на бизнес и экономику.",
+    "difficulty": 1,
+    "duration": "PT0H22M",
+    "tags": [                           
+        "Cisco",
+        "Packet Tracer"
+    ],
+    "credentialsSchema": {              
+        "userName": {
+            "title": "Имя пользователя",
+            "source": "learn_user"
+        },
+        "password": {
+            "title": "Пароль",
+            "source": "learn_password"
+        },
+        "consoleURL": {
+            "title": "Адрес портала",
+            "value": "https://portal.skillscloud.company"
+        }
+    },
+    "skills": {},
+    "testProjectPath": "./README.md",
+	"deploymentPath": "deploy",
+    "assetsPath": "assets"
+
+}
